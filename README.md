@@ -1,1 +1,1 @@
-# small-project1-landing-page
+# sp1-landing-page

@@ -24,4 +24,4 @@ Vagrantfile digunakan untuk mengatur konfigurasi pada VM. Spesifikasi yang digun
    ```bash
    vagrant ssh
    ```
-  4. Run web applikasi dengan IP 192.168.100.3
+  4. Run aplikasi web dengan IP private 192.168.100.3
